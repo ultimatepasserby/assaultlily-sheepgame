@@ -5,4 +5,4 @@ StreakingMan/solvable-sheep-game
 
 部分资源来自《突击莉莉水果》和B站@丹羽灯莉奥菲受
 
-再次感谢StreakingMan提供的代码参考~~(直接开抄)~~
+再次感谢StreakingMan提供的代码参考
