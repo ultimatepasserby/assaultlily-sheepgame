@@ -1,0 +1,140 @@
+{
+    "title": "莉了个莉",
+    "desc": "Assaultlily Sheepgame",
+    "bgm": "/sound-disco.mp3",
+    "dark": true,
+    "background": "",
+    "backgroundBlur": false,
+    "backgroundColor": "#f596aa",
+    "pure": true,
+    "maxLevel": 100,
+    "icons": [
+        {
+            "name": "1",
+            "content": "/1.png",
+            "clickSound": "riri",
+            "tripleSound": "triple"
+        },
+        {
+            "name": "2",
+            "content": "/2.png",
+            "clickSound": "youyou",
+            "tripleSound": "triple"
+        },
+        {
+            "name": "3",
+            "content": "/3.png",
+            "clickSound": "f",
+            "tripleSound": "triple"
+        },
+        {
+            "name": "4",
+            "content": "/4.png",
+            "clickSound": "yujia",
+            "tripleSound": "triple"
+        },
+        {
+            "name": "5",
+            "content": "/5.png",
+            "clickSound": "shenlin",
+            "tripleSound": "triple"
+        },
+        {
+            "name": "6",
+            "content": "/6.png",
+            "clickSound": "mei",
+            "tripleSound": "triple"
+        },
+        {
+            "name": "7",
+            "content": "/7.png",
+            "clickSound": "katsusa",
+            "tripleSound": "triple"
+        },
+        {
+            "name": "8",
+            "content": "/8.png",
+            "clickSound": "miliam",
+            "tripleSound": "triple"
+        },
+        {
+            "name": "9",
+            "content": "/9.png",
+            "clickSound": "fumi",
+            "tripleSound": "triple"
+        },
+        {
+            "name": "10",
+            "content": "/10.png",
+            "clickSound": "yuri",
+            "tripleSound": "triple"
+        }
+    ],
+    "sounds": [
+        {
+            "name": "sound-undo",
+            "src": "/sound-undo.mp3"
+        },
+        {
+            "name": "sound-shift",
+            "src": "/sound-shift.mp3"
+        },
+        {
+            "name": "sound-wash",
+            "src": "/sound-wash.mp3"
+        },
+        {
+            "name": "button-click",
+            "src": "/sound-button-click.mp3"
+        },
+        {
+            "name": "triple",
+            "src": "/sound-triple.mp3"
+        },
+        {
+            "name": "riri",
+            "src": "/riri.mp3"
+        },
+        {
+            "name": "yuyu",
+            "src": "/yuyu.mp3"
+        },
+        {
+            "name": "f",
+            "src": "/f.mp3"
+        },
+        {
+            "name": "shenlin",
+            "src": "/shenlin.mp3"
+        },
+        {
+            "name": "yujia",
+            "src": "/yujia.mp3"
+        },
+        {
+            "name": "mei",
+            "src": "/mei.mp3"
+        },
+        {
+            "name": "katsusa",
+            "src": "/katsusa.mp3"
+        },
+        {
+            "name": "miliam",
+            "src": "/miliam.mp3"
+        },
+        {
+            "name": "fumi",
+            "src": "/fumi.mp3"
+        },
+        {
+            "name": "yuri",
+            "src": "/yuri.mp3"
+        }
+    ],
+    "operateSoundMap": {
+        "shift": "sound-shift",
+        "undo": "sound-undo",
+        "wash": "sound-wash"
+    }
+}
