@@ -22,8 +22,14 @@ StreakingMan/solvable-sheep-game
 
 ```shell
 git clone https://github.com/ultimatepasserby/assaultlily-sheepgame.git
+```
+```shell
 cd assaultlily-sheepgame
+```
+```shell
 npm install -g yarn
+```
+```shell
 yarn install
 ```
 安装完成后调试运行，复制链接到浏览器即可
